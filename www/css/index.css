@@ -1,0 +1,15 @@
+.container{
+    text-align: center;
+}
+
+body{
+    background-color: #bfbeca;
+}
+
+#img{
+    text-align: center;
+    margin-top: 20px;
+}
+#img>img{
+    height: 200px;
+}

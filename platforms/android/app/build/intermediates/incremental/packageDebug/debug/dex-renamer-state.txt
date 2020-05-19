@@ -1,0 +1,4 @@
+#Wed Dec 11 19:04:51 EST 2019
+base.0=/Users/oleksandrlemishka/Desktop/COLLEGE/Semester3/Mobile_dev/Group_project/Mobile-Project/Project/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
